@@ -1,1 +1,2 @@
-# class-31-code
+# synchronousBallMovement
+Ball moving synchronously
